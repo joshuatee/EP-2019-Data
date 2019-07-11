@@ -6,6 +6,6 @@ European Parliament 2019 Elections in Bulgaria, Results &amp; Data
 
 ![DB Browser for SQLite](https://sqlitebrowser.org/images/screenshot.png "DB Browser for SQLite")
 
-## Описание таблиците в csv.db
+## Описание на таблиците в csv.db
 
 - readme.txt
